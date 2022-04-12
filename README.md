@@ -2,7 +2,8 @@
 Reads in an array and rotates it
 
 I wrote this a ways back, pretty early on in my coding journey (you can tell if you read the code). It was super cool to get it working though. I'll include here my write up so you can see some of my thought process at the time.
-Christian J. STark
+
+Rogue
 CS 121
 Program 1
 September 26, 2020
